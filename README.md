@@ -70,49 +70,6 @@ Below is a template for a README file for your project, including a section on r
 
 ---
 
-# Project Name
-
-Brief description of what your project does and its main features.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-What things you need to install the software and how to install them:
-
-```
-Go version 1.16 or higher
-Systemd (for daemon setup)
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running:
-
-1. Clone the repository:
-```bash
-git https://github.com/barantaran/simple-redirect.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd simple-redirect
-```
-
-3. Build the project (optional, if not using precompiled binaries):
-```bash
-go build
-```
-
-4. Edit the `config.json` file to set your desired port and target URLs.
-
-5. Start the server:
-```bash
-./simple-redirect
-```
-
 ## Running as a Daemon (Service)
 
 To ensure that the project runs continuously, even after a reboot or crash, it's recommended to run it as a daemon. Here are the steps to set it up as a systemd service on a Linux system:
