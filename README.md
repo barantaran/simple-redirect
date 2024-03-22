@@ -15,7 +15,7 @@ This project is a simple web server written in Go that demonstrates dynamic URL 
 
 ### Prerequisites
 
-- Go 1.16 or later
+- Go 1.22 or later
 
 ### Installation
 
