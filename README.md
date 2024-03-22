@@ -53,7 +53,7 @@ Edit the `config.json` file in the project's root directory to set up your desir
 Execute the compiled binary to start the server:
 
 ```sh
-./myapp
+./m
 ```
 
 The server will start and listen on the port specified in `config.json`. It will redirect incoming requests to one of the configured target URLs.
