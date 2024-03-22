@@ -50,10 +50,10 @@ Edit the `config.json` file in the project's root directory to set up your desir
 
 ### Running the Application
 
-Execute the compiled binary to start the server:
+Execute the compiled binary to start the server, e.g.:
 
 ```sh
-./m
+./m.exe
 ```
 
 The server will start and listen on the port specified in `config.json`. It will redirect incoming requests to one of the configured target URLs.
