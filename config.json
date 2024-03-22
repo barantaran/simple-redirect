@@ -1,0 +1,8 @@
+{
+    "port": 8080,
+    "targets": [
+      "http://example.com",
+      "http://example1.com"
+    ]
+  }
+  
