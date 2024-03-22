@@ -26,7 +26,7 @@ git clone https://github.com/barantaran/simple-redirect.git
 
 2. Navigate to the project directory:
 ```sh
-cd repository
+cd simple-redirect
 ```
 
 3. Build the project:
